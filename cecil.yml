@@ -4,5 +4,6 @@ baseurl: https://cecilapp.github.io/demo-bootstrap-icons/
 canonicalurl: true
 
 static:
+  # https://github.com/Cecilapp/Cecil/blob/6a2f7e93018fa9e8656598537552152ccc8df96f/config/default.php#L137
   #exclude: ['sass', 'scss', '*.scss', 'package*.json', 'node_modules']
   exclude: ['sass', 'scss', '*.scss', 'package*.json']
