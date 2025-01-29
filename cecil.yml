@@ -1,0 +1,8 @@
+title: Demo Bootstrap Icons
+baseline: 
+baseurl: /
+description: 
+
+static:
+  #exclude: ['sass', 'scss', '*.scss', 'package*.json', 'node_modules']
+  exclude: ['sass', 'scss', '*.scss', 'package*.json']

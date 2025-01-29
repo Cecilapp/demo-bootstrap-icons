@@ -1,0 +1,4 @@
+.cecil/
+.cache/
+_site/
+static/node_modules/
