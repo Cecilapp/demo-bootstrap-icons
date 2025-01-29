@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+      - name: Install Bootstrap
+        working-directory: static
+        run: npm install
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
