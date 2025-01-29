@@ -1,7 +1,6 @@
 title: Demo Bootstrap Icons
-baseline: 
-baseurl: /
-description: 
+baseurl: https://cecilapp.github.io/demo-bootstrap-icons/
+description: Demo of Cecil with Bootstrap Icons.
 
 static:
   #exclude: ['sass', 'scss', '*.scss', 'package*.json', 'node_modules']
