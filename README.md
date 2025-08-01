@@ -9,7 +9,7 @@ Live demo: <https://cecilapp.github.io/demo-bootstrap-icons/>.
 ## Installation
 
 ```bash
-npm --prefix static install
+npm install --prefix ./static
 ```
 
 ## Run demo
